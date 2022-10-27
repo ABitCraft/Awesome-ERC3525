@@ -1,4 +1,4 @@
-# Awesome ERC3525
+# Awesome ERC-3525 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome ERC-3525 Semi-fungible token standard, theory, implementation and related resources.
 
 Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).
