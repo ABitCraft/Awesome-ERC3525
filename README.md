@@ -23,6 +23,7 @@ Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).
 - [Vesting Voucher](https://github.com/solv-finance/solv-v2-voucher)
 - [Convertible Voucher](https://github.com/solv-finance/solv-v2-ivo/tree/main/vouchers/convertible-voucher)
 - [Bond Voucher](https://github.com/solv-finance/solv-v2-ivo/tree/main/vouchers/bond-voucher)
+- [ETH Commemorative Cryptonotes](https://github.com/crypto-notes)
 
 ## Articles & Talks
 
